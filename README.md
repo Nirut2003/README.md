@@ -45,8 +45,9 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nirut-chanai&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirut-chanai&layout=compact&hide_border=true" />
+
 </div>
 
 ---
@@ -54,9 +55,7 @@
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: **nirut.chanai@example.com**  
-- 🐦 Twitter: [@yourhandle](https://twitter.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)  
+- 💌 Email: **nirut.chanai.dev@gmail.com**   
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
