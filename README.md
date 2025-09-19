@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="2d124ff2-4232-4f24-89af-ef124b6c5888.jpg" alt="header image" width="100%" />
+  <img src="blob:https://www.facebook.com/2d124ff2-4232-4f24-89af-ef124b6c5888" alt="header image" width="100%" />
 </p>
 
 <h1 align="center">Hi, I’m Nirut Chanai <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
