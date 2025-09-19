@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.jpg" width="100%" alt="Banner"/>
+  <img src="" width="100%" alt="Banner"/>
 </p>
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="assets/profile.jpg" width="150" style="border-radius: 50%; border: 3px solid #4CAF50;" alt="Nirut Chanai"/>
+  <img src="" width="150" style="border-radius: 50%; border: 3px solid #4CAF50;" alt="Nirut Chanai"/>
 </p>
 
 <h1 align="center">Hi, I’m <span style="color:#4CAF50;">Nirut Chanai</span> 👋</h1>
