@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://i.ibb.co/vJvRj3R/banner-tech.jpg" alt="header image" width="100%" />
+  <img src="2d124ff2-4232-4f24-89af-ef124b6c5888.jpg" alt="header image" width="100%" />
 </p>
 
 <h1 align="center">Hi, I’m Nirut Chanai <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
@@ -16,7 +16,7 @@
 - 🌱 Currently learning: **Spring MVC · JSP · CSS · JavaScript**  
 - 🛠 Main stack: **Java · Spring MVC · MySQL · HTML/CSS · JavaScript**  
 - 🎯 2025 Goal: **Build and deploy my first full-stack web application**  
-- 📫 Reach me: **nirut.chanai@example.com** | [LinkedIn](https://linkedin.com) | [GitHub](https://github.com/⟪USERNAME⟫)
+- 📫 Reach me: **nirut.chanai.dev@gmail.com** | [LinkedIn](https://linkedin.com) | [GitHub](https://github.com/⟪USERNAME⟫)
 
 ---
 
