@@ -1,6 +1,11 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="blob:https://www.facebook.com/2d124ff2-4232-4f24-89af-ef124b6c5888" alt="header image" width="100%" />
+  <img src="assets/banner.jpg" alt="header image" width="100%" />
+</p>
+
+<!-- Profile Picture -->
+<p align="center">
+  <img src="assets/2d124ff2-4232-4f24-89af-ef124b6c5888.jpg" width="150" style="border-radius: 50%;" alt="Nirut Chanai"/>
 </p>
 
 <h1 align="center">Hi, I’m Nirut Chanai <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
@@ -16,7 +21,7 @@
 - 🌱 Currently learning: **Spring MVC · JSP · CSS · JavaScript**  
 - 🛠 Main stack: **Java · Spring MVC · MySQL · HTML/CSS · JavaScript**  
 - 🎯 2025 Goal: **Build and deploy my first full-stack web application**  
-- 📫 Reach me: **nirut.chanai.dev@gmail.com** | [LinkedIn](https://linkedin.com) | [GitHub](https://github.com/⟪USERNAME⟫)
+- 📫 Reach me: **nirut.chanai.dev@gmail.com** | [LinkedIn](https://linkedin.com) | [GitHub](https://github.com/nirut-chanai)
 
 ---
 
@@ -46,8 +51,7 @@
 ## 📈 GitHub Stats
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nirut-chanai&show_icons=true&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirut-chanai&layout=compact&hide_border=true" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirut-chanai&layout=compact&hide_border=true" />
 </div>
 
 ---
@@ -56,7 +60,9 @@
 > **“Great products are built by great people working together.”**
 
 - 💌 Email: **nirut.chanai.dev@gmail.com**   
+- 💼 LinkedIn: [linkedin.com/in/nirut-chanai](https://linkedin.com)  
+- 🐦 GitHub: [github.com/nirut-chanai](https://github.com/nirut-chanai)  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=nirut-chanai&style=flat-square" alt="profile views"/>
 </p>
